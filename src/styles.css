@@ -2,7 +2,17 @@ h1 {
   color: #0000cd;
   font-size: 35px;
 }
-
 body {
-  font-family: sans-serif;
-}
+  background: linear-gradient(top, blue, white 80%, red);
+   font-family: sans-serif;
+ }
+ 
+ div {
+   background-color: #24AAC2A;
+   border: 1px solid :blank;
+ 
+ }
+ a{
+   margin: auto;
+ }
+ 
