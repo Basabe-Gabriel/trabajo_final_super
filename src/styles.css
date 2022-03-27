@@ -1,18 +1,13 @@
-h1 {
-  color: #0000cd;
-  font-size: 35px;
-}
 body {
-  background: linear-gradient(top, blue, white 80%, red);
-   font-family: sans-serif;
- }
- 
- div {
-   background-color: #24AAC2A;
-   border: 1px solid :blank;
- 
- }
- a{
-   margin: auto;
- }
- 
+  background: linear-gradient(blue, white 50%, red);
+  font-family: sans-serif;
+}
+
+img.logo {
+  width: 50px;
+  height: 50px;
+}
+
+#link {
+  margin: auto;
+}
